@@ -1,3 +1,4 @@
-# A simple console program created using Python's basic grammar.
+# simple console blog
+- A simple console program created using Python's basic grammar.
 - crud function included
 
