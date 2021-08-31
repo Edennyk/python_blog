@@ -10,7 +10,7 @@
 - Write post </br>
 <img src="https://user-images.githubusercontent.com/59883982/131525561-822f7e86-a584-44a6-9e07-2c3c0f4ec390.PNG"></br>
 - lists all posts </br>
-<img src="https://user-images.githubusercontent.com/59883982/131525572-46d888d5-061d-4a27-a03a-2b86447dad20.PNG"></ br>
+<img src="https://user-images.githubusercontent.com/59883982/131525572-46d888d5-061d-4a27-a03a-2b86447dad20.PNG"></br>
 - detail post </br>
 <img src="https://user-images.githubusercontent.com/59883982/131525578-e2ab34b3-9ae2-4e65-8810-e2b4e9a9c8dd.PNG"></br>
 - update post </br>
